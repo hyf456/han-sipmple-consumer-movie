@@ -1,2 +1,4 @@
 server:
   port: 7901
+user:
+  userSerrvicePath: http://localhost:7900/simple/
